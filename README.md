@@ -1,5 +1,17 @@
-# TA-Certification-Problems
-LaTeX-Generated Applied Parametric Probability and Statistics Problems:
+---
+title: "Probability and Statistics Problems"
+---
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']], displayMath: [['$$','$$'], ['\\[','\\]']]}
+  });
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+
 ---
 ### Problem 1: Conditional Probability with Poisson and Exponential Distribution
 
